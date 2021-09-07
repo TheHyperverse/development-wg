@@ -5,9 +5,8 @@ Latest Meeting: https://github.com/TheHyperverse/planning-committee/blob/main/me
 ## Top Priority Right Now
 
 Referencing the notes from the previous meeting:
-```
-The main goal with the Hyperverse Module Spec is to create a system of requirements (or even opt-in fields) that developers should include in their module submissions to the Hyperverse. This will allow discoverability of composable modules on a front-end in the future, allow developers to read documentation on the modules, read Ethereum-like contract ABIs to easily figure out how to interact with the contracts, etc. Additionally it will hopefully provide a way for developers to figure out how to easily include these composable smart contracts in their own DApps. It will also cover how to submit/register your own composable modules, what the review process will be like, etc in the future.
-```
+
+"The main goal with the Hyperverse Module Spec is to create a system of requirements (or even opt-in fields) that developers should include in their module submissions to the Hyperverse. This will allow discoverability of composable modules on a front-end in the future, allow developers to read documentation on the modules, read Ethereum-like contract ABIs to easily figure out how to interact with the contracts, etc. Additionally it will hopefully provide a way for developers to figure out how to easily include these composable smart contracts in their own DApps. It will also cover how to submit/register your own composable modules, what the review process will be like, etc in the future."
 
 @hhTheSpark proposed that we split up into a few teams to discuss smaller topics before bringing it to the group. As said in the meeting, our top priority is the Hyperverse Module Spec, specifically three things:
     a. Code Requirements
