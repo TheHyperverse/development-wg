@@ -1,6 +1,6 @@
 # Meeting Notes for [date here]
 
-## Links
+## Related Links
 
 **Zoom Recording**: 
 

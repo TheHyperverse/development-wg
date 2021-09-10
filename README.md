@@ -6,7 +6,7 @@ The Hyperverse Planning Committee is a group dedicated to architecting, developi
 
 You can find our main communication channel in the [Decentology Discord](https://discord.gg/decentology) under the Hyperverse/#planning-committee text channel.
 
-## Sechduling
+## Scheduling
 
 **Please join [this google calendar](https://calendar.google.com/calendar/u/0?cid=Y19wNjc2bDk4NDkzZTMxdGVjM2s3Y3U3Ymd0Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to keep track of all meeting times.**
 
