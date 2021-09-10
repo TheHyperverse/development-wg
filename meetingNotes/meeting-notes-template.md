@@ -2,9 +2,11 @@
 
 ## Related Links
 
-**Zoom Recording**: 
+Zoom Recording:
 
 ## Attendees
+
+## Agenda Items
 
 ## Decisions
 
