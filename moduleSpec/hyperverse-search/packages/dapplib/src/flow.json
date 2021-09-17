@@ -1,0 +1,59 @@
+{
+	"emulators": {
+		"default": {
+			"port": 3569,
+			"serviceAccount": "emulator-account"
+		},
+		"test": {
+			"port": 3570,
+			"serviceAccount": "emulator-account"
+		}
+	},
+	"contracts": {
+		"Flow.FlowFees": {
+			"aliases": {
+				"emulator": "0xe5a8b7f23e8b548f",
+				"testnet": "0x912d5440f7e3769e"
+			}
+		},
+		"Flow.FlowServiceAccount": {
+			"aliases": {
+				"emulator": "0xf8d6e0586b0a20c7"
+			}
+		},
+		"Flow.FlowStorageFees": {
+			"aliases": {
+				"emulator": "0xf8d6e0586b0a20c7"
+			}
+		},
+		"Flow.FlowToken": {
+			"aliases": {
+				"emulator": "0x0ae53cb6e3f42a79",
+				"testnet": "0x7e60df042a9c0868"
+			}
+		},
+		"Flow.FungibleToken": {
+			"aliases": {
+				"emulator": "0xee82856bf20e2aa6",
+				"testnet": "0x9a0766d93b6608b7"
+			}
+		},
+		"Flow.NonFungibleToken": {
+			"aliases": {
+				"testnet": "0x631e88ae7f1d7c20"
+			}
+		}
+	},
+	"networks": {
+		"emulator": "127.0.0.1:3569",
+		"mainnet": "access.mainnet.nodes.onflow.org:9000",
+		"testnet": "access.devnet.nodes.onflow.org:9000"
+	},
+	"accounts": {
+		"emulator-account": {
+			"address": "f8d6e0586b0a20c7",
+			"keys": "348bdc3216e6571ced8faf35ef6d5336d1dcda5895e1abcc556fa780bd0ac081"
+		}
+	},
+	"deployments": {}
+}

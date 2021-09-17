@@ -1,0 +1,14 @@
+{
+    "repository": {},
+    "__outputFolder": "flow-kitty-items",
+    "blocks": [
+        {
+            "category": "foundation",
+            "name": "core-kitty_items",
+            "parameters": {}
+        }
+    ],
+    "blockchain": "flow",
+    "language": "cadence",
+    "framework": "vanilla"
+}
