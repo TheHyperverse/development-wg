@@ -1,6 +1,6 @@
-# Hyperverse Planning Committee
+# Hyperverse Development Working Group
 
-The Hyperverse Planning Committee is a group dedicated to architecting, developing, and discussing the future of the Hyperverse. The Hyperverse, in it's final form, will be a network of composable modules (featuring composable smart contracts) that will range across blockchains and will be a major component of a DAO. The Hyperverse truly aims to be the biggest decentralized network of composable smart contracts in all of Web3.
+A group dedicated to architecting, developing, and discussing the future of the Hyperverse. The Hyperverse, in it's final form, will be a network of composable modules (featuring composable smart contracts) that will range across blockchains and will be a major component of a DAO. The Hyperverse truly aims to be the biggest decentralized network of composable smart contracts in all of Web3.
 
 ## Where to Find Us
 
