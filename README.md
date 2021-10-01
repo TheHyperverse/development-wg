@@ -10,7 +10,7 @@ You can find our main communication channel in the [Decentology Discord](https:/
 
 **Please join [this google calendar](https://calendar.google.com/calendar/u/0?cid=Y19wNjc2bDk4NDkzZTMxdGVjM2s3Y3U3Ymd0Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to keep track of all meeting times.**
 
-**Latest Meeting Notes**: https://github.com/TheHyperverse/planning-committee/blob/main/meetingNotes/2021-09-27.md
+**Latest Meeting Notes**: https://github.com/TheHyperverse/development-wg/blob/main/meetingNotes/2021-09-27.md
 
 **Next Meeting**: October 1st @ 7am PST
 
