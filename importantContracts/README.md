@@ -1,5 +1,5 @@
-Here you will find two contracts: HyperverseInterface.cdc and HyperverseService.cdc
+# Important "Core" Contracts
 
-The HyperverseInterface is the contract interface that ALL composable contracts have to implement. You'll see it requires a ContractMetadata struct defined in the HyperverseService, which is what users register to in order to receive Tenants.
+Here you will find the core contracts for the Hyperverse Module Spec, both in Cadence and Solidity.
 
-We can think about what should be added/removed from this ContractMetadata. This will serve as on-chain metadata so that our front-end can query it for discoverability and more. Note it also includes fixedFees and dynamicFees, this isn't important for now and will be more important later when we explore monetization. The idea, though, is that the fees for paid functions would be stored here.
+We are currently leading our implementation in Cadence and then trying to bring that over to Solidity as well. These are still very much in development.
