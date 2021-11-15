@@ -18,4 +18,4 @@ They are listed by date of the meeting.
 
 ## Top Priority Right Now
 
-Contract metadata and discoverability.
+Bounty program.
